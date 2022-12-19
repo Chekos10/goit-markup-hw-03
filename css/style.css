@@ -332,6 +332,9 @@ h3 {
   background-color: #fff;
   margin-bottom: 48px;
 }
+.examples .image{
+  margin-bottom: 32px;
+}
 .examples .item:not(:nth-child(3n)) {
   margin-right: 24px;
 }
@@ -341,13 +344,16 @@ h3 {
   line-height: 1.2;
   letter-spacing: 0.02em;
   margin-left: 16px;
+  margin-bottom: 8px;
 }
 .examples-text {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin: 0;
   margin-left: 16px;
+  margin-bottom: 32px;
 }
 .end {
   padding-bottom: 100px;
