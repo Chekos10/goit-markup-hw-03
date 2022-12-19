@@ -201,6 +201,7 @@ img {
 }
 .company .list {
   display: flex;
+  padding-bottom: 0;
 }
 .company .item {
   background: linear-gradient(
