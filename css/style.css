@@ -148,6 +148,11 @@ img{
   border-color: transparent;
   cursor: pointer;
 }
+.button:hover,
+.button:focus{
+  color: #fff;
+  background-color: #404BBF;
+}
 
 /*Features*/
 .feature {
@@ -353,7 +358,7 @@ h3 {
   letter-spacing: 0.02em;
   margin: 0;
   margin-left: 16px;
-  margin-bottom: 32px;
+  margin-bottom: 32pxf;
 }
 .end {
   padding-bottom: 100px;
