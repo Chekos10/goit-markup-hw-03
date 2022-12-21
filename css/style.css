@@ -351,6 +351,7 @@ h3 {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .examples .image {
+
   margin-bottom: 32px;
   background: linear-gradient(
       0deg,
@@ -360,7 +361,9 @@ h3 {
     url(tp238-pf-s73-05-mockup.jpg);
   mix-blend-mode: normal;
 }
-
+.examples .link{
+  text-decoration: none;
+}
 .examples .tittle {
   font-weight: 600;
   font-size: 20px;
